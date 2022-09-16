@@ -10,12 +10,8 @@ the frontend based on javafx to get the input user, the functionalities which th
 
 #### we will split each functionality alone in separate class :
 
-classes to interact with remote API Connection.
-
-controller class to interact with the view model (FXML file in our case).
-
-models classes to create the objects fetched from the remote API.
-
-services class for the business logic and different functionalities to deal with the user input .
-
-class to implement an interface which contains all needed method in our project.
+- classes to interact with remote API Connection.
+- controller class to interact with the view model (FXML file in our case).
+- models classes to create the objects fetched from the remote API.
+- services class for the business logic and different functionalities to deal with the user input .
+- class to implement an interface which contains all needed method in our project.
