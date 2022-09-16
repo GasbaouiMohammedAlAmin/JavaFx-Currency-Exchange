@@ -8,7 +8,7 @@ the frontend based on javafx to get the input user, the functionalities which th
 - get the signification for all exist currency symbol.
 - draw a line chart for a specific currency symbol for the last n days
 
-#### we will split each functionality alone in separate class :
+#### i will split each functionality alone in separate class :
 
 - classes to interact with remote API Connection.
 - controller class to interact with the view model (FXML file in our case).
