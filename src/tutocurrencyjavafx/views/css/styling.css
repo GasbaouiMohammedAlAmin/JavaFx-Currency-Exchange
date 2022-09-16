@@ -1,0 +1,31 @@
+.button 
+{
+-fx-background-color:#0589ff;
+
+
+}
+.button:hover 
+{
+-fx-background-color:#00C1FF;
+}
+.button:pressed{
+    -fx-background-color:#01B2EB;
+}
+.table-view .column-header,
+.table-view .column-header-background .filter{
+-fx-cell-size : 20;
+-fx-background-color: #0589ff
+}
+.table-view .column-header .label{
+-fx-text-fill: white;
+-fx-font-weight: bold;
+-fx-alignment: CENTER;
+}
+.container{
+-fx-background-color : rgba(255,255,255,0.2);
+-fx-background-radius : 10;
+
+}
+.gardient-background{
+-fx-background-color: linear-gradient(from 25% 25% to 100% 100% ,#0589ff, #0589aa);
+}
