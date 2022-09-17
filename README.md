@@ -20,5 +20,5 @@ the frontend based on javafx to get the input user, the functionalities which th
 ![](screenshot/capt1.JPG)
 ####  signification symbols  window
 ![](screenshot/capt2.JPG)
-####  histtorical currencyline chart window
+####  histtorical currency line chart window
 ![](screenshot/capt3.JPG)
