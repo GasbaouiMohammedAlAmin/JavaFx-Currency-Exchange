@@ -15,3 +15,5 @@ the frontend based on javafx to get the input user, the functionalities which th
 - models classes to create the objects fetched from the remote API.
 - services class for the business logic and different functionalities to deal with the user input .
 - class to implement an interface which contains all needed method in our project.
+
+![](screenshot/capt1.jpg)
